@@ -12,13 +12,23 @@
       "postalCode": "46022",
       "city": "Valencia",
       "countryCode": "ES",
-      "region": "Valencia"
+      "region": "España"
     },
     "profiles": [
       {
         "network": "LinkedIn",
         "username": "Paco Fuentes",
         "url": "https://www.linkedin.com/in/paco-fuentes-dev/"
+      },
+      {
+        "network": "GitHub",
+        "username": "paco-fuentes",
+        "url": "https://github.com/paco-fuentes"
+      },
+      {
+        "network": "X",
+        "username": "@paco__fuentes",
+        "url": "https://twitter.com/paco__fuentes"
       }
     ]
   },
